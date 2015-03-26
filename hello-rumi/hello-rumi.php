@@ -1,6 +1,7 @@
 <?php
 /*
 Plugin Name: Hello Rumi
+Plugin URI: http://www.wordpress.org/plugins/hello-rumi/
 Description: This plugin shows you a random quote written by the greatest mystic sufi poet of all time Rumi.This is a plugin based on Matt Mullenweg's Hello dolly plugin. When activated you will randomly see a quote in the upper right of your admin screen on every page.
 Author: Aqib Gatoo
 Version: 1.0
